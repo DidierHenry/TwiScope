@@ -1,2 +1,2 @@
 # TwiScope
-An academic tool to collect Twitter data
+A robust academic tool to collect Twitter data
