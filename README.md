@@ -1,2 +1,2 @@
 # TwiScope
-An academic tool that improves access to Twitter data
+An academic tool to improve researchers access to Twitter data
